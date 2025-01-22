@@ -1,9 +1,12 @@
 # CS2340FAC_Team41
+
+Made By:
+Anish Cheraku
 Dev Patel
 Vinay Gupta
 Viraj Kulkarni
 Justin Zheng
-Anish Cheraku
+
 
 Structure:
 ![Image](https://github.com/user-attachments/assets/31ef2c74-2011-4467-80f0-ee941d1bac5b)
