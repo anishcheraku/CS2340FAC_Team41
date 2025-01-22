@@ -1,11 +1,7 @@
 # CS2340FAC_Team41
 
 Made By:
-Anish Cheraku
-Dev Patel
-Vinay Gupta
-Viraj Kulkarni
-Justin Zheng
+Anish Cheraku, Dev Patel, Vinay Gupta, Viraj Kulkarni, Justin Zheng
 
 Project Demo:
 https://www.youtube.com/watch?v=jzjbAOTC0hY&ab_channel=JustinZheng
