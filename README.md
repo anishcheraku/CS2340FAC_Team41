@@ -2,6 +2,7 @@
 
 Made By:
 Anish Cheraku, Dev Patel, Vinay Gupta, Viraj Kulkarni, Justin Zheng
+-->
 [![Contributors][contributors-shield]][contributors-url]
 
 Project Demo:
