@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=jzjbAOTC0hY&ab_channel=JustinZheng
 ![Image](https://github.com/user-attachments/assets/c020910e-70bb-4b3d-97be-1ac373906f25)
 
 ## Installation:
-If you want to make changes to this project, create your API Key and enter it in `serviceAccountKey.json` file: 
+If you want to make changes to this project, create your own API Key and enter it in `serviceAccountKey.json` file: 
   ```json
    "private_key":
    ```
