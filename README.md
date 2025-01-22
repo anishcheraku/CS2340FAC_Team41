@@ -12,5 +12,9 @@ Structure:
 Sequence Diagram:
 ![Image](https://github.com/user-attachments/assets/c020910e-70bb-4b3d-97be-1ac373906f25)
 
-If you want to make changes to this project, create your API Key and place it in line 5 inside the `serviceAccountKey.json` file: (There is currently a dummy key in place of where your new API key should go)
+If you want to make changes to this project, create your API Key and enter it in `serviceAccountKey.json` file: 
+  ```json
+   "private_key":
+   ```
+(There is currently a dummy key in place of where your new API key should go)
 
